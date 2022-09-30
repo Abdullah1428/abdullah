@@ -1,2 +1,5 @@
-# abdullah
-my short personal website
+# Abdullah
+
+My short personal website
+
+Static Website built with HTML and CSS.
